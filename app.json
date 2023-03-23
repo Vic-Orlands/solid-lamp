@@ -1,0 +1,8 @@
+{
+  "name": "LoveAfrica",
+  "displayName": "LoveAfrica",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-7061634468500027~7113745987",
+    "ios_app_id": "ca-app-pub-7061634468500027~6095179333"
+  }
+}

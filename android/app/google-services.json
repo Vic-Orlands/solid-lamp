@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "177291864975",
+    "project_id": "loveafrica-app-f167c",
+    "storage_bucket": "loveafrica-app-f167c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177291864975:android:cd7b463fa15ffc75bf39fa",
+        "android_client_info": {
+          "package_name": "com.loveAfrica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177291864975-2u1lkk05a9rpvhlsm98010564crr8m4n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.loveAfrica",
+            "certificate_hash": "865078d9970367c202a43129797d76ad13eba61a"
+          }
+        },
+        {
+          "client_id": "177291864975-arbhq7ugkirlar6u6qria1hdvmk843vk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.loveAfrica",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "177291864975-lccf1ruvgebkgg842eoub6e1p2igohj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2CFGs8HtlTWGvlBvBWl7qjy3bn2yV65o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177291864975-lccf1ruvgebkgg842eoub6e1p2igohj8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "177291864975-sg0jnkuu44hjjvveaid1nrfo3lcq5v5i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.loveAfrica"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
